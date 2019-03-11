@@ -1,12 +1,8 @@
-AssertionError: '!' == 'Hello, everybody!'
-+ expected - actual
-
-- !
-+Hello, everybody!
-
 var greeting = "Hello, everybody!";
 
 var specialGuest = "Neil deGrasse Tyson"
+
++ Hello, everybody!
 
 var greetSpecialGuest = "Hello, everybody!" + specialGuest + "!";
 
