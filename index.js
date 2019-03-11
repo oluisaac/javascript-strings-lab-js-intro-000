@@ -1,6 +1,6 @@
 AssertionError: '!' == 'Hello, everybody!'
 + expected - actual
- 
+
 - !
 +Hello, everybody!
 
