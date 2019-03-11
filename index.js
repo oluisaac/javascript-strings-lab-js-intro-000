@@ -3,7 +3,7 @@ var greeting = "Hello, everybody!";
 var specialGuest = "Neil deGrasse Tyson"
 
 + expected - actual
- 
+
 - !
 +Hello, everybody!
 
